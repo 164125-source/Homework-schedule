@@ -45,3 +45,6 @@ while True:
         break
     else:
         print("พิมพ์เมนูไม่ถูกต้องจ้า ลองใหม่อีกทีนะ\n")
+git add homework_tracker.py
+git commit -m "เพิ่มระบบติดตามการบ้าน สถานะเริ่มต้นคือยังไม่ได้ทำ"
+git push
